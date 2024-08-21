@@ -1,2 +1,2 @@
 # BKL251_SIMD
-parallarization 
+not completed
